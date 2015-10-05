@@ -4,7 +4,7 @@
 This is a single player game. The goal is to dodge as many balls as possible.
 
 ##How to play
-Run www.derekwychan.com/falling-balls
+Run www.aaronccwong.com/falling-balls
 Press enter to start the game, left and right arrow keys to run right and left.
 Hold spacebar to sprint.
 
