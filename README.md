@@ -15,6 +15,7 @@ Hold spacebar to sprint.
 - Scaleable for more players to be added at once
 - Uses physics for gravity and vectors
 - Uses Canvas to create render everything
+- Incorporates live leaderboard.
 
 ##Future goals
 - Use Node.js to add more players and a chatroom
