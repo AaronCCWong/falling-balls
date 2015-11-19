@@ -5,7 +5,7 @@ Made in collaboration with Derek Chan.
 This is a single player game. The goal is to dodge as many balls as possible.
 
 ##How to play
-Play the game [here](www.aaronccwong.com/falling-balls)
+Play the game [here](http://www.aaronccwong.com/falling-balls).
 
 ## Smooth gameplay
 In order to read multiple keydowns utilizing eventListeners at once for smooth gameplay, each keydown changes a boolean value.
