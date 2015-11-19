@@ -33,7 +33,7 @@ There is also a onKeyUp function. See [Game View](https://github.com/AaronCCWong
 - Object orientated programming
 - Scaleable for more players to be added at once
 - Uses physics for gravity and vectors
-- Uses Canvas to create render everything
+- Uses Canvas to render everything
 - Incorporates live leaderboard.
 - Filter's malicious user names
 
